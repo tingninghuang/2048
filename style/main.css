@@ -329,30 +329,30 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url(https://cdn2.ettoday.net/images/2830/d2830737.jpg);
+    background: url("https://cdn2.ettoday.net/images/2830/d2830737.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url(https://cdn2.ettoday.net/images/2830/d2830705.jpg);
+    background: url("https://cdn2.ettoday.net/images/2830/d2830705.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner { 
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGqo_8giYwNxK-7a0P1-DV4-BNjvJUVXBTMajLytYOmWncdS_KQ);
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGqo_8giYwNxK-7a0P1-DV4-BNjvJUVXBTMajLytYOmWncdS_KQ");
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-16 .tile-inner {
-    background: url(http://static.ettoday.net/images/2134/d2134554.jpg);
+    background: url("http://static.ettoday.net/images/2134/d2134554.jpg");
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-32 .tile-inner {
-    background: url(https://i.ytimg.com/vi/MzqF0DEtpEE/maxresdefault.jpg);
+    background: url("https://i.ytimg.com/vi/MzqF0DEtpEE/maxresdefault.jpg");
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: url(http://www.lopo8.com/wp-content/uploads/2015/06/%E6%9F%AF%E5%9F%BA11.png);
+    background: url("http://www.lopo8.com/wp-content/uploads/2015/06/%E6%9F%AF%E5%9F%BA11.png");
     background-size: cover;
     background-position-x: center;
     color: rgb(0,0,0,0);}
