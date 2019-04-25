@@ -339,7 +339,7 @@ hr {
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner { 
-    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGqo_8giYwNxK-7a0P1-DV4-BNjvJUVXBTMajLytYOmWncdS_KQ);
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGqo_8giYwNxK-7a0P1-DV4-BNjvJUVXBTMajLytYOmWncdS_KQ);
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-16 .tile-inner {
@@ -347,7 +347,7 @@ hr {
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-32 .tile-inner {
-    background:url(https://i.ytimg.com/vi/MzqF0DEtpEE/maxresdefault.jpg);
+    background: url(https://i.ytimg.com/vi/MzqF0DEtpEE/maxresdefault.jpg);
     background-size: cover;
     color: rgb(0,0,0,0); }
   .tile.tile-64 .tile-inner {
